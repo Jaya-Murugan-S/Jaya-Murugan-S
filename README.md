@@ -1,7 +1,7 @@
 
 
   <body>
-    <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width=3000px>
+    <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
     <h1>Hellooo friends! 😎  <i><b>JAYA_MURUGAN</b></i> here</h1>
     <p>🎓 I am currently in the final year of my Bachelor's in Technology (B.Tech) program at  <a href="https://smvec.ac.in/">Sri Manakula Vinayagar Engineering College</a></p>
     <p>🔭Ambitious recent graduate seeking employment, proficient in Java.<a </p>
