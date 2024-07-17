@@ -3,7 +3,7 @@
   <body>
     <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
     <h1>Hellooo friends! 😎  <i><b>JAYA_MURUGAN</b></i> here</h1>
-    <p>🎓 I am currently in the final year of my Bachelor's in Technology (B.Tech) program at  <a href="https://smvec.ac.in/">Sri Manakula Vinayagar Engineering College</a></p>
+    <p>🎓 I am currently completed my Bachelor's in Technology (B.Tech) program at  <a href="https://smvec.ac.in/">Sri Manakula Vinayagar Engineering College</a></p>
     <p>🔭Ambitious recent graduate seeking employment, proficient in Java.<a </p>
     <p>✉️My personal mail id<a href="jayamurugan484@gmail.com">jayamurugan484@gmail.com</a></p>
       <p>🌱Currently engaged in an internship at Codsoft, specializing in Java development.</p>
@@ -13,7 +13,9 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height=50px width=60px alt=c>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height=50px width=60px alt=c++>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=50px width=60px alt=html>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50px width=60px alt=javascript> 
+             <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F331488%2Fmongodb&psig=AOvVaw3WqBCMNpSjLOnffo66rhTy&ust=1721281783801000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODkuMWwrYcDFQAAAAAdAAAAABAE" height=50px width=60px alt=mongodb>
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50px width=60px alt=javascript> 
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height=50px width=60px alt=css>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height=50px width=60px alt=figma>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height=50px width=60px alt=mysql>
