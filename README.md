@@ -13,7 +13,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height=50px width=60px alt=c>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height=50px width=60px alt=c++>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=50px width=60px alt=html>
-             <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F331488%2Fmongodb&psig=AOvVaw3WqBCMNpSjLOnffo66rhTy&ust=1721281783801000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODkuMWwrYcDFQAAAAAdAAAAABAE" height=50px width=60px alt=mongodb>
+             <img src="https://img.icons8.com/?size=256&id=74402&format=png" height=50px width=60px alt=mongodb>
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50px width=60px alt=javascript> 
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height=50px width=60px alt=css>
