@@ -14,7 +14,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height=50px width=60px alt=c++>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=50px width=60px alt=html>
              <img src="https://img.icons8.com/?size=256&id=74402&format=png" height=50px width=60px alt=mongodb>
-
+<img src="https://img.icons8.com/?size=256&id=Ny0t2MYrJ70p&format=png" height=50px width=60px alt=powerbi>
+      <img src="https://img.icons8.com/?size=256&id=11566&format=png" height=50px width=60px alt=excel>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=50px width=60px alt=javascript> 
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height=50px width=60px alt=css>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height=50px width=60px alt=figma>
