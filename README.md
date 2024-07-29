@@ -5,8 +5,9 @@
     <h1>Hellooo friends! 😎  <i><b>JAYA_MURUGAN</b></i> here</h1>
     <p>🎓 I am currently completed my Bachelor's in Technology (B.Tech) program at  <a href="https://smvec.ac.in/">Sri Manakula Vinayagar Engineering College</a></p>
     <p>🔭Ambitious recent graduate seeking employment, proficient in Java.<a </p>
-    <p>✉️My personal mail id<a href="jayamurugan484@gmail.com">jayamurugan484@gmail.com</a></p>
+    <p>✉️My personal mail id<a href="mailto:jayamurugan484@gmail.com">jayamurugan484@gmail.com</a></p>
       <p>🌱Currently engaged in an internship at Codsoft, specializing in Java development.</p>
+      <p>Visit My Portfolio at :<a href="https://jayamurugan.netlify.app/">jayamurugan.netlify.app</a></p>
       <p>⚡ Fun fact <b>"Life is Acceptance"</b></p>
     <h1>I'm technically skilled in 🤹🤹</h1>
     <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height=50px width=60px alt=java> 
